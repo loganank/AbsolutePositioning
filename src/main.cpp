@@ -1,8 +1,6 @@
 #include "main.h"
 #include "test/tests/impl/allImplTests.hpp"
 
-// loser is here.
-
 using namespace okapi;
 
 std::shared_ptr<OdomChassisController> drive;
